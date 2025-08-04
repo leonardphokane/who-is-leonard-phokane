@@ -1,35 +1,36 @@
-# Phokane Legacy Portfolio
+# 🚀 Hackathon Portfolio by Leonard Phokane  
+### Ethical Tech Advocate | Afro-futurist Designer | Full-stack Pathfinder  
 
-A responsive personal portfolio built with **React.js** and **Tailwind CSS**, showcasing skills, projects, and contact information. Inspired by clean design and cultural storytelling.
+Welcome to a boundary-pushing digital portfolio built for Hackathon 1 by PLP Academy. This isn’t just code — it’s culture in motion.
 
-## 🌐 Live Site
-[https://phokane-legacy-code.netlify.app](https://phokane-legacy-code.netlify.app)
+## 🌐 Live Site  
+🔗 [View Project](https://leonardphokane.github.io/hackathon-portfolio)
 
-## 📁 Project Structure
+## 🧪 Tech Stack
+- HTML5 + CSS3 + Vanilla JS  
+- AOS.js for sleek scroll effects  
+- Custom Animations with Tailwind vibes  
+- Mobile-first, pixel-perfect layout
 
-src/ ├── assets/ # Images and icons ├── components/ # Reusable UI components (Hero, Navbar, Skills, Work, Contact, Footer) ├── App.jsx # Main app component ├── main.jsx # Entry point
+## 🎨 Brand Narrative  
+Built to reflect a fusion of:
+- **Afro-futurism** — celebrating innovation through a cultural lens  
+- **Ethical Tech** — UI/UX crafted with digital dignity  
+- **Cloud-readiness** — prepped for deployment at scale (via AWS, Flutter, or EC2)
 
-🛠️ Technologies Used
-React.js
+## 🌟 Features
+- Scroll-activated skill showcase  
+- Dynamically framed project cards  
+- Social icons + GitHub integrations  
+- Fully responsive — designed for phones, desktops, and everything in between
 
-Tailwind CSS
+## 🏆 Hackathon Impact
+Crafted for PLP’s **Hackathon 1: Portfolio Building**, this project demonstrates:
+- UI/UX storytelling  
+- Commit discipline via GitHub  
+- Open-source spirit through collaborative deployment  
+- A personal brand ready to evolve into CI/CD pipelines
 
-Vite (for fast bundling)
-
-Netlify (for deployment)
-
-📦 Deployment
-To deploy on Netlify:
-
-Push your code to GitHub.
-
-Connect your repo to Netlify.
-
-Set build command: npm run build
-
-Set publish directory: dist
-
-📬 Contact
-Feel free to reach out via the contact form on the site or connect through your preferred channel.
-
-Crafted with clarity, culture, and code. ✨
+## 🧠 Reflection
+This project is more than a task — it’s a signature. Every hover, animation, and breakpoint is intentional.  
+As I continue building with Flutter, AWS, and TensorFlow Lite… this portfolio will grow, just like the vision behind **Zulutech** 🌍✨
